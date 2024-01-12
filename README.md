@@ -1,7 +1,8 @@
 # Email Administration Application
 
 Selamat datang di Email Administration Application, sebuah aplikasi Java yang dirancang khusus untuk mempermudah proses pembuatan akun email bagi karyawan baru dalam perusahaan Anda. Sebagai seorang spesialis administrator dukungan IT, Anda dapat dengan mudah menggunakan aplikasi ini untuk mengelola dan mengatur berbagai parameter email.
-![Screenshot from 2024-01-13 01-34-44](https://github.com/saidhafiz321/Email-Administration-Application/assets/85662790/f7d486a2-0055-4e8d-9904-ede359f7937f)
+
+![Screenshot from 2024-01-13 01-34-44]<img src="https://github.com/saidhafiz321/Email-Administration-Application/assets/85662790/f7d486a2-0055-4e8d-9904-ede359f7937f"width="150" height="280">
 
 
 ## Fitur Utama
